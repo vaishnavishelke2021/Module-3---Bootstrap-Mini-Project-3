@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.fa-info-circle{
+    color: black;
+}
+
+.fa-info-circle:hover{
+    color: red;
+}
+
+.card img{
+    height: 130px;
+    width: 130px;
+}
+
+
+/* 1  */
+.card-1{
+    position: absolute;
+    top: 0px;
+    left: 390px;
+}
+
+.alert-1{
+    width: 18rem;
+    position: absolute;
+    top: 40px;
+    right: 1140px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;   
+}
+
+
+/* 2  */
+.card-2{
+    position: absolute;
+    top: 0px;
+    right: 390px;
+}
+
+.alert-2{
+    width: 18rem;
+    position: absolute;
+    top: 40px;
+    right: 90px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;   
+}
+
+
+/* 3  */
+.card-3{
+    position: absolute;
+    top: 230px;
+    left: 390px;
+}
+
+.alert-3{
+    width: 18rem;
+    position: absolute;
+    top: 270px;
+    right: 1140px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;   
+}
+
+
+/* 4  */
+.card-4{
+    position: absolute;
+    top: 230px;
+    right: 390px;
+}
+
+.alert-4{
+    width: 18rem;
+    position: absolute;
+    top: 270px;
+    right: 90px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;    
+}
+
+
+/* 5  */
+.card-5{
+    position: absolute;
+    top: 470px;
+    left: 390px;
+}
+
+.alert-5{
+    width: 18rem;
+    position: absolute;
+    top: 500px;
+    right: 1140px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;   
+}
+
+
+/* 6  */
+.card-6{
+    position: absolute;
+    top: 470px;
+    right: 390px;
+}
+
+.alert-6{
+    width: 18rem;
+    position: absolute;
+    top: 500px;
+    right: 90px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;     
+}
+
+
+/* 7  */
+.card-7{
+    position: absolute;
+    top: 690px;
+    left: 390px;
+}
+
+.alert-7{
+    width: 18rem;
+    position: absolute;
+    top: 720px;
+    right: 1140px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;   
+}
+
+
+/* 8  */
+.card-8{
+    position: absolute;
+    top: 690px;
+    right: 390px;
+}
+
+.alert-8{
+    width: 18rem;
+    position: absolute;
+    top: 720px;
+    right: 90px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;     
+}
+
+
+/* 9  */
+.card-9{
+    position: absolute;
+    top: 930px;
+    left: 390px;
+}
+
+.alert-9{
+    width: 18rem;
+    position: absolute;
+    top: 970px;
+    right: 1140px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;   
+}
+
+
+/* 10  */
+.card-10{
+    position: absolute;
+    top: 930px;
+    right: 390px;
+}
+
+.alert-10{
+    width: 18rem;
+    position: absolute;
+    top: 970px;
+    right: 90px; 
+    font-size: 0.9rem;
+    margin-top: 0.6rem;    
+}
